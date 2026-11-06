@@ -9,6 +9,4 @@
 > - script.js contains the JavaScript code used for DOM manipulation
 > - styles.css has been used to style the HTML page
 
-<a href='https://youtu.be/Ju26yF0d_D8'>
-<img src='' alt='Watch the Video' width='480'>
-</a>
+<video src='https://github.com/malvinmuthuuri47/LeetCode-Repo/blob/main/search_functionality/assets/debouncing.mp4' controls width='600 />
