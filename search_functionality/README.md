@@ -9,4 +9,4 @@
 > - script.js contains the JavaScript code used for DOM manipulation
 > - styles.css has been used to style the HTML page
 
-![search_functionality/assets/debouncing.mp4](https://github.com/malvinmuthuuri47/LeetCode-Repo/blob/main/search_functionality/assets/debouncing.mp4)
+![Video Demo]([https://github.com/malvinmuthuuri47/LeetCode-Repo/blob/main/search_functionality/assets/debouncing.mp4](https://youtu.be/Ju26yF0d_D8))
