@@ -9,4 +9,6 @@
 > - script.js contains the JavaScript code used for DOM manipulation
 > - styles.css has been used to style the HTML page
 
-[Watch the demo on Youtube](https://youtu.be/Ju26yF0d_D8)
+<a href='https://youtu.be/Ju26yF0d_D8'>
+<img src='' alt='Watch the Video' width='480'>
+</a>
