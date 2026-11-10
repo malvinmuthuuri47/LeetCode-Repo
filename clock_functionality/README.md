@@ -5,7 +5,7 @@
 #### functionality. 
 
 > [!NOTE]
-> setTimeout is used to execute a command after a certain amount of time and it keeps executing
-> until the user explicitly stops its execution. The execution is stopped by clearing the 
-> intervalId that setTimeout returns. 
-> The video attached to this file showcases this functionality.
+> - setTimeout is used to execute a command after a certain amount of time and it keeps executing
+> - until the user explicitly stops its execution. The execution is stopped by clearing the 
+> - intervalId that setTimeout returns. 
+> - The video attached to this file showcases this functionality.
